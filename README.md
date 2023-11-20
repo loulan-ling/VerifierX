@@ -1,6 +1,15 @@
 # VerifierX
 记录获取各种软件的校验信息的方法(Methods for Recording Verification Information of Various Software)
 
+- [VerifierX](#VerifierX)
+  - [校验命令](#校验命令)
+  - [VMware Workstation Pro](#vmware-workstation-pro)
+  - [Windows 11](#windows-11)
+  - [微软产品(Visual Studio 操作系统 SQL Server)](#微软产品visual-studio-操作系统-sql-server)
+  - [java](#java)
+  - [python](#python)
+
+
 ## 校验命令
 
 ```

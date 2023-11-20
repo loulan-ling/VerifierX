@@ -73,8 +73,7 @@ Get-FileHash C:\Users\用戶1\Downloads\Contoso8_1_ENT.iso
 
 
 
-## 微软产品
-
+## 微软产品(Visual Studio 操作系统 SQL Server)
 微软大部分产品的校验码都需要登录才能查看，如果不需要登录我会单独列出来。
 
 需要拥有一个微软账号，才能进行下面的操作
